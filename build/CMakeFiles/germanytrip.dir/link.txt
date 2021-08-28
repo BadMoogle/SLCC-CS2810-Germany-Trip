@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/germanytrip.dir/main.cpp.o  -o germanytrip -rdynamic 
